@@ -5,17 +5,84 @@
 
 ## Contents
 
+- [ai](#ai)
+- [api](#api)
+- [backend](#backend)
+- [chatgpt](#chatgpt)
+- [config](#config)
+- [django](#django)
+- [docker](#docker)
+- [education](#education)
 - [flask](#flask)
+- [hacktoberfest](#hacktoberfest)
+- [http](#http)
+- [learning](#learning)
+- [monitoring](#monitoring)
 - [others](#others)
 - [python](#python)
+- [react](#react)
 - [web](#web)
+
+## ai 
+
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
+
+## api 
+
+- [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!
+
+## backend 
+
+- [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!
+
+## chatgpt 
+
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
+
+## config 
+
+- [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
+
+## django 
+
+- [anze3db/fedidevs](https://github.com/anze3db/fedidevs) - Discover amazing developers across the fediverse 🌐
+- [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
+
+## docker 
+
+- [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!
+- [badtuxx/giropops-monitoring](https://github.com/badtuxx/giropops-monitoring) - Full stack tools for monitoring containers and other stuff. ;)
+
+## education 
+
+- [kelvins/algorithms-and-data-structures](https://github.com/kelvins/algorithms-and-data-structures) - :abacus: Algorithms and Data Structures in several Programming Languages
 
 ## flask 
 
+- [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [helloflask/flask-examples](https://github.com/helloflask/flask-examples) - Example applications for Flask learners.
+
+## hacktoberfest 
+
+- [kelvins/algorithms-and-data-structures](https://github.com/kelvins/algorithms-and-data-structures) - :abacus: Algorithms and Data Structures in several Programming Languages
+- [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
+
+## http 
+
+- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported.
+
+## learning 
+
+- [kelvins/algorithms-and-data-structures](https://github.com/kelvins/algorithms-and-data-structures) - :abacus: Algorithms and Data Structures in several Programming Languages
+
+## monitoring 
+
+- [badtuxx/giropops-monitoring](https://github.com/badtuxx/giropops-monitoring) - Full stack tools for monitoring containers and other stuff. ;)
 
 ## others 
 
+- [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for Starlette & FastApi applications
+- [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [open-webui/docs](https://github.com/open-webui/docs) - https://docs.openwebui.com
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
@@ -23,8 +90,19 @@
 
 ## python 
 
+- [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
+- [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!
+- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
+- [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [anze3db/fedidevs](https://github.com/anze3db/fedidevs) - Discover amazing developers across the fediverse 🌐
+- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported.
+- [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [helloflask/flask-examples](https://github.com/helloflask/flask-examples) - Example applications for Flask learners.
+
+## react 
+
+- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 
 ## web 
 
