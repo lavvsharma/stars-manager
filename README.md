@@ -42,6 +42,7 @@
 ## Jupyter Notebook 
 
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 
 ## Others 
 
@@ -54,7 +55,6 @@
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
 - [Wauplin/streamlit-sync](https://github.com/Wauplin/streamlit-sync) - A library to easily synchronize sessions between themselves or on local drive for later reuse.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [iam-abbas/FastAPI-Production-Boilerplate](https://github.com/iam-abbas/FastAPI-Production-Boilerplate) - A scalable and production ready boilerplate for FastAPI
 - [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning.
 - [datvodinh/rag-chatbot](https://github.com/datvodinh/rag-chatbot) - Chat with multiple PDFs locally
