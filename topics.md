@@ -48,6 +48,7 @@
 - [rust](#rust)
 - [self-hosted](#self-hosted)
 - [swift](#swift)
+- [tailwindcss](#tailwindcss)
 - [typescript](#typescript)
 - [web](#web)
 
@@ -268,6 +269,10 @@
 ## swift 
 
 - [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
+
+## tailwindcss 
+
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 
 ## typescript 
 
