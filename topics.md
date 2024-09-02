@@ -12,6 +12,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [backend](#backend)
+- [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
 - [clojure](#clojure)
@@ -107,6 +108,10 @@
 
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!
+
+## chatbot 
+
+- [datvodinh/rag-chatbot](https://github.com/datvodinh/rag-chatbot) - Chat with multiple PDFs locally
 
 ## chatgpt 
 
