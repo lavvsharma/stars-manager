@@ -74,7 +74,7 @@
 
 ## ai 
 
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Efficiently Fine-Tune 100+ LLMs in WebUI (ACL 2024)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -115,7 +115,7 @@
 
 ## chatgpt 
 
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 
@@ -242,7 +242,7 @@
 
 ## llm 
 
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Efficiently Fine-Tune 100+ LLMs in WebUI (ACL 2024)
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [datvodinh/rag-chatbot](https://github.com/datvodinh/rag-chatbot) - Chat with multiple PDFs locally
@@ -302,7 +302,7 @@
 
 ## python 
 
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
