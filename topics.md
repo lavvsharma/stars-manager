@@ -48,6 +48,7 @@
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
+- [openai](#openai)
 - [others](#others)
 - [postgresql](#postgresql)
 - [project-management](#project-management)
@@ -276,6 +277,10 @@
 
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+
+## openai 
+
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 
 ## others 
 
