@@ -83,7 +83,7 @@
 
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Efficiently Fine-Tune 100+ LLMs in WebUI (ACL 2024)
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 
@@ -217,6 +217,7 @@
 
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [kelvins/algorithms-and-data-structures](https://github.com/kelvins/algorithms-and-data-structures) - :abacus: Algorithms and Data Structures in several Programming Languages
@@ -229,7 +230,7 @@
 ## http 
 
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
-- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported.
+- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported. With WebSocket!
 
 ## ios 
 
@@ -265,7 +266,7 @@
 ## llm 
 
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Efficiently Fine-Tune 100+ LLMs in WebUI (ACL 2024)
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [datvodinh/rag-chatbot](https://github.com/datvodinh/rag-chatbot) - Chat with multiple PDFs locally
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
@@ -351,7 +352,7 @@
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [anze3db/fedidevs](https://github.com/anze3db/fedidevs) - Discover amazing developers across the fediverse 🌐
-- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported.
+- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported. With WebSocket!
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [helloflask/flask-examples](https://github.com/helloflask/flask-examples) - Example applications for Flask learners.
