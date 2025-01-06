@@ -108,7 +108,7 @@
 ## Swift 
 
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-- [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
+- [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 
 ## TypeScript 
 
