@@ -5,8 +5,6 @@
 
 ## Contents
 
-- [C](#c)
-- [CSS](#css)
 - [Clojure](#clojure)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -20,14 +18,6 @@
 - [Rust](#rust)
 - [Swift](#swift)
 - [TypeScript](#typescript)
-
-## C 
-
-- [bcrypt-ruby/bcrypt-ruby](https://github.com/bcrypt-ruby/bcrypt-ruby) - bcrypt-ruby is a Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.
-
-## CSS 
-
-- [open-webui/docs](https://github.com/open-webui/docs) - https://docs.openwebui.com
 
 ## Clojure 
 
@@ -102,6 +92,7 @@
 - [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported. With WebSocket, and SSE! Be free of Reques
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
+- [open-webui/docs](https://github.com/open-webui/docs) - https://docs.openwebui.com
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
