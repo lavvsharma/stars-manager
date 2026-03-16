@@ -29,6 +29,7 @@
 - [deep-learning](#deep-learning)
 - [deno](#deno)
 - [design](#design)
+- [developer-tools](#developer-tools)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -72,6 +73,7 @@
 - [others](#others)
 - [php](#php)
 - [postgresql](#postgresql)
+- [powershell](#powershell)
 - [project-management](#project-management)
 - [prompt-engineering](#prompt-engineering)
 - [python](#python)
@@ -88,6 +90,7 @@
 - [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
+- [shell](#shell)
 - [storybook](#storybook)
 - [support](#support)
 - [svelte](#svelte)
@@ -196,6 +199,7 @@
 
 ## cli 
 
+- [daniel3303/ClaudeCodeStatusLine](https://github.com/daniel3303/ClaudeCodeStatusLine) - Custom status line for Claude Code showing model, tokens, rate limits, and git info in real-time
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 
 ## clojure 
@@ -230,6 +234,10 @@
 ## design 
 
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+
+## developer-tools 
+
+- [daniel3303/ClaudeCodeStatusLine](https://github.com/daniel3303/ClaudeCodeStatusLine) - Custom status line for Claude Code showing model, tokens, rate limits, and git info in real-time
 
 ## django 
 
@@ -447,7 +455,6 @@
 ## others 
 
 - [LukeRenton/explore-claude-code](https://github.com/LukeRenton/explore-claude-code) - Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more.
-- [daniel3303/ClaudeCodeStatusLine](https://github.com/daniel3303/ClaudeCodeStatusLine) - 
 - [LeapLabTHU/Absolute-Zero-Reasoner](https://github.com/LeapLabTHU/Absolute-Zero-Reasoner) - Official Repository of Absolute Zero Reasoner
 - [cotes2020/chirpy-starter](https://github.com/cotes2020/chirpy-starter) - A website startup template using the Chirpy theme gem.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
@@ -470,6 +477,10 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+
+## powershell 
+
+- [daniel3303/ClaudeCodeStatusLine](https://github.com/daniel3303/ClaudeCodeStatusLine) - Custom status line for Claude Code showing model, tokens, rate limits, and git info in real-time
 
 ## project-management 
 
@@ -565,6 +576,10 @@
 
 - [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 
+## shell 
+
+- [daniel3303/ClaudeCodeStatusLine](https://github.com/daniel3303/ClaudeCodeStatusLine) - Custom status line for Claude Code showing model, tokens, rate limits, and git info in real-time
+
 ## storybook 
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -588,6 +603,7 @@
 
 ## terminal 
 
+- [daniel3303/ClaudeCodeStatusLine](https://github.com/daniel3303/ClaudeCodeStatusLine) - Custom status line for Claude Code showing model, tokens, rate limits, and git info in real-time
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 
 ## testing 
