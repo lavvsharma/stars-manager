@@ -30,6 +30,7 @@
 - [deno](#deno)
 - [design](#design)
 - [developer-tools](#developer-tools)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -238,6 +239,10 @@
 ## developer-tools 
 
 - [daniel3303/ClaudeCodeStatusLine](https://github.com/daniel3303/ClaudeCodeStatusLine) - Custom status line for Claude Code showing model, tokens, rate limits, and git info in real-time
+
+## distributed-systems 
+
+- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is a powerful and easy-to-use asynchronous Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
 
 ## django 
 
@@ -456,7 +461,7 @@
 
 - [LukeRenton/explore-claude-code](https://github.com/LukeRenton/explore-claude-code) - Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more.
 - [LeapLabTHU/Absolute-Zero-Reasoner](https://github.com/LeapLabTHU/Absolute-Zero-Reasoner) - Official Repository of Absolute Zero Reasoner
-- [cotes2020/chirpy-starter](https://github.com/cotes2020/chirpy-starter) - A website startup template using the Chirpy theme gem.
+- [cotes2020/chirpy-starter](https://github.com/cotes2020/chirpy-starter) - A starter template for Jekyll sites using the Chirpy theme.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
 - [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
