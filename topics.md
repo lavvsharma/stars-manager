@@ -111,6 +111,7 @@
 - [web](#web)
 - [web-components](#web-components)
 - [webpack](#webpack)
+- [workflow](#workflow)
 - [youtube](#youtube)
 
 ## agent 
@@ -686,6 +687,10 @@
 ## webpack 
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+
+## workflow 
+
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
 ## youtube 
 
