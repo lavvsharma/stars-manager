@@ -88,7 +88,7 @@
 - [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning.
 - [datvodinh/rag-chatbot](https://github.com/datvodinh/rag-chatbot) - Chat with multiple PDFs locally
 - [Nagi-ovo/CRAG-Ollama-Chat](https://github.com/Nagi-ovo/CRAG-Ollama-Chat) - Corrective RAG demo powerd by Ollama
-- [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for Starlette & FastApi applications
+- [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for FastApi & Starlette applications
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
 - [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is an asynchronous Python framework for building event-driven applications. It brings together message broker integration, dependency injection, validation, testing utilities, and AsyncAPI 
@@ -122,7 +122,7 @@
 
 - [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
