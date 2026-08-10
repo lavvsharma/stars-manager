@@ -24,6 +24,7 @@
 - [chatgpt](#chatgpt)
 - [claude](#claude)
 - [claude-code](#claude-code)
+- [claude-skills](#claude-skills)
 - [cli](#cli)
 - [clojure](#clojure)
 - [command-line](#command-line)
@@ -230,6 +231,10 @@
 - [LukeRenton/explore-claude-code](https://github.com/LukeRenton/explore-claude-code) - Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more.
 - [daniel3303/ClaudeCodeStatusLine](https://github.com/daniel3303/ClaudeCodeStatusLine) - Custom status line for Claude Code showing model, tokens, rate limits, and git info in real-time
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
+
+## claude-skills 
+
+- [LukeRenton/explore-claude-code](https://github.com/LukeRenton/explore-claude-code) - Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more.
 
 ## cli 
 
